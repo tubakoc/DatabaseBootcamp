@@ -26,13 +26,13 @@ Komutu ile yum-utils install edilir.
     --add-repo \
     https://download.docker.com/linux/centos/docker-ce.repo
     
-![03](https://github.com/tubakoc/DatabaseBootcamp/issues/3)
+![03](https://user-images.githubusercontent.com/28953086/116467964-f848e200-a878-11eb-95ed-7c2cd0c2f1bb.png)
 
 
 #ls /etc/yum.repos.d/
 komutu ile makinedeki repolar listelenir. 
 
-![04](https://github.com/tubakoc/DatabaseBootcamp/issues/4)
+![04](https://user-images.githubusercontent.com/28953086/116468012-05fe6780-a879-11eb-9b14-278a6bb3ded9.png)
 
 
 Yazılan komutta paketler install edildi. Bunlar default olarak deaktif geldi bunları aktifleştirmek için aşağıdaki komutlar yazıldı.
@@ -59,7 +59,7 @@ komutu ile install edilir.
 
 #yum list docker-ce --showduplicates | sort –r  komutu ile makinede bulunan sürümler listelenir.
 
-![08](https://github.com/tubakoc/DatabaseBootcamp/issues/8)
+![08](https://user-images.githubusercontent.com/28953086/116468135-2b8b7100-a879-11eb-9740-9216591e5e99.png)
 
 
 Docker yüklendi ancak henüz başlatılmadı.
