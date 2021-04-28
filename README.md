@@ -133,7 +133,7 @@ $upsertResult = $collection->upsert("my-document", ["name" => "Tuba"]);
 $getResult = $collection->get("my-document");
 
 
-![14](https://github.com/tubakoc/DatabaseBootcamp/issues/13)
+![14](https://user-images.githubusercontent.com/28953086/116468313-5ece0000-a879-11eb-8b5a-3c667a9521f4.jpeg)
 
 
 
