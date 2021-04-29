@@ -66,7 +66,7 @@ Docker yüklendi ancak henüz başlatılmadı.
 # sudo systemctl start docker 
 komutu ile yüklenen docker sürümü başlatılır.
 
-![09] (https://user-images.githubusercontent.com/28953086/116468170-347c4280-a879-11eb-9b36-570b7a886ca1.png)
+![09](https://user-images.githubusercontent.com/28953086/116468170-347c4280-a879-11eb-9b36-570b7a886ca1.png)
 
 
 Başlatılan Docker ın çalışıp çalışmadığını kontrol etmek için 
